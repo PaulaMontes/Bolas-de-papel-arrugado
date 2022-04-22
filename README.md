@@ -1,2 +1,1 @@
-# Bolas-de-papel-arrugado
-PRO - C21
+# PROC21_Materia_JS_Repetitiva
